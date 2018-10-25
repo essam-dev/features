@@ -15,7 +15,10 @@ public class App {
 		// new LambdaTester().execute();
 
 		// MethodReferenceTester.java
-		new MethodReferenceTester().execute();
+		// new MethodReferenceTester().execute();
+
+		// FunctionalInterfacesTester.java
+		new FunctionalInterfacesTester().execute();
 
 	}
 
