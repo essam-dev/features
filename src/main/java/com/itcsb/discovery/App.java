@@ -1,5 +1,7 @@
 package com.itcsb.discovery;
 
+import com.itcsb.discovery.java8.FunctionalInterfacesTester;
+
 /**
  * Hello world!
  *

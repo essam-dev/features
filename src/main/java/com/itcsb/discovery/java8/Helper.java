@@ -1,4 +1,4 @@
-package com.itcsb.discovery;
+package com.itcsb.discovery.java8;
 
 import java.util.ArrayList;
 import java.util.Arrays;
