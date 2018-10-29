@@ -1,8 +1,8 @@
 package com.itcsb.discovery.annotations.enums;
 
 public enum BusinessAction {
-	CCS("CCS", "Commande Client Saved"), CCC("CCC", "Commande Client Canceled"), BVS("BVS",
-			"Bulletin Vente Saved"), BVC("BVC",
+	EMPTY("EMPTY", "default value"), CCS("CCS", "Commande Client Saved"), CCC("CCC", "Commande Client Canceled"), BVS(
+			"BVS", "Bulletin Vente Saved"), BVC("BVC",
 					"Bulletin Vente Canceled"), DS("DS", "Devis Saved"), DC("DC", "Devis Canceled");
 
 	private String name = "";

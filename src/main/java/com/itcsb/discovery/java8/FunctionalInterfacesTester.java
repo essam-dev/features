@@ -5,11 +5,10 @@ import java.util.List;
 import java.util.function.Predicate;
 
 import com.itcsb.discovery.annotations.annotates.BusinessLog;
-import com.itcsb.discovery.annotations.enums.BusinessAction;
 
 public class FunctionalInterfacesTester {
 
-	@BusinessLog(LogAction = BusinessAction.CCS)
+	@BusinessLog
 	public void execute() {
 		List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
