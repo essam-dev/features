@@ -1,4 +1,4 @@
-package com.itcsb.discovery.annotations.enums;
+package com.itcsb.discovery.LoggingAspect.enums;
 
 public enum BusinessAction {
 	EMPTY("EMPTY", "default value"), CCS("CCS", "Commande Client Saved"), CCC("CCC", "Commande Client Canceled"), BVS(
