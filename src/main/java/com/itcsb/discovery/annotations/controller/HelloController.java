@@ -3,8 +3,8 @@ package com.itcsb.discovery.annotations.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.itcsb.discovery.LoggingAspect.annotations.BusinessLog;
-import com.itcsb.discovery.LoggingAspect.enums.BusinessAction;
+import com.itcsb.discovery.loggingAspect.annotations.BusinessLog;
+import com.itcsb.discovery.loggingAspect.enums.BusinessAction;
 
 @RestController
 public class HelloController {

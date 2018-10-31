@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 
-import com.itcsb.discovery.LoggingAspect.annotations.BusinessLog;
+import com.itcsb.discovery.loggingAspect.annotations.BusinessLog;
 
 public class FunctionalInterfacesTester {
 
